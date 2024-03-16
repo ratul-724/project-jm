@@ -67,7 +67,7 @@
     margin: 15px;
     padding:30px 10px;
     box-shadow: 10px 10px 40px rgb(187, 187, 187);
-    border-left:5px solid rgb(123, 108, 253) ;
+    border-left:5px solid rgb(49, 32, 202) ;
 }
 .second-full .item .second:hover{
     transform: scale(1.1);
